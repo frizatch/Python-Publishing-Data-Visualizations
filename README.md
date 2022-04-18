@@ -32,7 +32,7 @@ Here are the ones we'll focus on:
 You can see the [common plot types](https://matplotlib.org/stable/plot_types/index.html) available for matplotlib. The [gallery page](https://matplotlib.org/stable/gallery/index.html) for matplotlib has many examples of full figures with available source codes for their creation.
 
 <p align="center">
-<img src="images/figureanatomy.jpg" width="300"/>
+<img src="images/figureanatomy.jpg" width="600"/>
 </p>
 
 Note that pandas.DataFrame.plot is a convenient wrapper around Matplotlib to create simple plots.
