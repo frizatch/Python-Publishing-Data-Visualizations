@@ -46,6 +46,8 @@ Matplotlib also supplies these amazing [cheetsheets](https://matplotlib.org/chea
 <img src="images/figureanatomy.jpg" width="500"/>
 </p>
 
+There is detailed information and examples on styling figures on matplotlib's [Introductory Usage Guide](https://matplotlib.org/stable/tutorials/introductory/usage.html), but we'll go over some of these in our notebook.
+
 Note that pandas.DataFrame.plot is a convenient wrapper around Matplotlib to create simple plots.
 
 [Seaborn](https://seaborn.pydata.org/)
