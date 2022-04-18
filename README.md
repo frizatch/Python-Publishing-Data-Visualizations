@@ -16,7 +16,7 @@ Here is a brief table highlighting a few and why you may want to use them:
 | Seaborn | high-level | minimal code for high-level graphics | | no |
 | Plotly | |  |  | yes | |
 | Bokeh |  | |  | yes | |
-| Folium |  |
+| Folium |  | display data on Leaflet maps|
 | Geoplotlib | | | output is temporary interactive window and only option to save .png | yes |
 
 Here are the ones we'll focus on:
