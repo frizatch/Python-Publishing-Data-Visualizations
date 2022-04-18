@@ -31,8 +31,19 @@ Here are the ones we'll focus on:
 
 You can see the [common plot types](https://matplotlib.org/stable/plot_types/index.html) available for matplotlib. The [gallery page](https://matplotlib.org/stable/gallery/index.html) for matplotlib has many examples of full figures with available source codes for their creation.
 
+Matplotlib also supplies these amazing [cheetsheets](https://matplotlib.org/cheatsheets/) and other handouts on their website. I'm mainly including them here to give a visual sense of all that can be accomplished with this library:
+
 <p align="center">
-<img src="images/figureanatomy.jpg" width="600"/>
+<img src="images/matplotlib_cheatsheets-1.jpg" width="700"/>
+</p>
+
+<p align="center">
+<img src="images/matplotlib_cheatsheets-2.jpg" width="700"/>
+</p>
+
+
+<p align="center">
+<img src="images/figureanatomy.jpg" width="500"/>
 </p>
 
 Note that pandas.DataFrame.plot is a convenient wrapper around Matplotlib to create simple plots.
