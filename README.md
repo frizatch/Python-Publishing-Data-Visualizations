@@ -7,6 +7,12 @@ In addition to the plotting libraries we'll examine, we'll also introduce *numpy
 
 ## Workshop Goals
 
+By the end of this workshop, you'll:
+
+- Be familiar with the python visualization libraries *matplotlib* and *seaborn*
+- Have exposure to the libraries numpy, pandas and geopandas for working with data
+- Tools for creating figures to add to reports and paper submissions
+
 ## Data Visualization Libraries
 Here is a brief table highlighting a few and why you may want to use them:
 
