@@ -40,7 +40,7 @@ Note: *Both Pandas and Geopandas have Dataframe.plot methods that are convenient
 
 Here are the ones we'll focus on:
 
-[Matplotlib](https://matplotlib.org/)
+## [Matplotlib](https://matplotlib.org/)
 
 You can see the [common plot types](https://matplotlib.org/stable/plot_types/index.html) available for matplotlib. The [gallery page](https://matplotlib.org/stable/gallery/index.html) for matplotlib has many examples of full figures with available source codes for their creation.
 
@@ -54,23 +54,47 @@ Matplotlib also supplies these amazing [cheetsheets](https://matplotlib.org/chea
 <img src="images/matplotlib_cheatsheets-2.jpg" width="700"/>
 </p>
 
+### Figure Anatomy - building on the basics
+
+Many data visualization python libraries build on top of matplot lib, so understanding the basic building blocks here is useful.
 
 <p align="center">
 <img src="images/figureanatomy.jpg" width="500"/>
 </p>
 
-There is detailed information and examples on styling figures on matplotlib's [Introductory Usage Guide](https://matplotlib.org/stable/tutorials/introductory/usage.html), but we'll go over some of these in our notebook.
+Some definitions:
 
+- *Figure* - The whole figure. It contains the axes, axis and other artists.
+- *Axes* - An Axes is an Artist attached to a Figure that contains a region for plotting data
+- *Axis* - These objects set the scale and limits and generate ticks (the marks on the Axis) and ticklabels
+- *Artist* - Basically, everything visible on the Figure is an Artist (even Figure, Axes, and Axis objects)
 
-[Seaborn](https://seaborn.pydata.org/)
+All of these objects can be styled by passing arguments to called methods.
 
-Plotly
+There is detailed information and examples on styling figures on matplotlib's [Introductory Usage Guide](https://matplotlib.org/stable/tutorials/introductory/usage.html), but we'll go over some of these in our notebook. The best way to learn is to play!
 
-Folium
+## NumPy
 
-Geoplotlib
+"The fundamental package for scientific computing with Python"
 
-Altair?
+This package is for effeciently working with data in arrays. Data visualization libraries like having data in arrays.
 
+## Pandas and GeoPandas
+
+[Pandas](https://pandas.pydata.org/) is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+
+[GeoPandas](https://geopandas.org/en/stable/) is similar, but with the added capability of geospatial rendering.
+
+## [Seaborn](https://seaborn.pydata.org/)
+
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+
+Basically, it mushes all the capabilities of the methods in matplotlib into higher level ones and does things automatically for you so you have to write less code.
+
+## Notebook Exercises
+
+You can launch the notebook in two different ways:
+- Directly from the top of this README.md under "Workshop Resources" using Binder
+- Go to the main repository page, retrieve the .ipynb file, and launch Jupyter Notebooks from your own python environment.
 
 
