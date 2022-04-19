@@ -1,0 +1,13 @@
+name: notebookenv
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - pandas
+  - geopandas
+  - geopy
+  - seaborn
+  - folium
