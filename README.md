@@ -3,7 +3,7 @@ An introduction to using data visualization libraries for creating your figures
 
 There are many different libraries one can use for data visualization in python. They all have different strengths and weaknesses. In this workshop, we'll examine creating visuals by relying on two libraries: *maplotlib* and *seaborn*, but be aware there are others that may fit your purposes better.
 
-In addition to the plotting libraries we'll examine, we'll also introduce *numpy* and *pandas*, two libraries essential for organizing data to be easily examined and displayed.
+In addition to the plotting libraries we'll examine, we'll also introduce *numpy* and *pandas*, two packages essential for organizing data to be easily examined and displayed.
 
 ## Workshop Goals
 
