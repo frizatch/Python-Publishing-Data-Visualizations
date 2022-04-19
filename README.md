@@ -20,7 +20,7 @@ By the end of this workshop, you'll:
 - [NumPy Documentation](https://numpy.org/doc/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [GeoPandas Documentation](https://geopandas.org/en/stable/docs.html)
-- You can find datasets we'll use in this [data folder](https://www.dropbox.com/sh/wk6t92vp4l4cq53/AAAFzaD07V2LyKdhAjO54tefa?dl=0) on Dropbox
+- You can find datasets we'll use in this [data folder](https://www.dropbox.com/sh/wk6t92vp4l4cq53/AAAFzaD07V2LyKdhAjO54tefa?dl=0) on Dropbox (some data is built into the libraries or notebook)
 - Other similar Airbnb data can be found on the [Inside Airbnb website](http://insideairbnb.com/get-the-data/)
 - [Jupyter Notebook](https://mybinder.org/v2/gh/frizatch/Python-Publishing-Data-Visualizations.git/main?labpath=PublishingWithPython.ipynb) of examples accessed via Binder
 
