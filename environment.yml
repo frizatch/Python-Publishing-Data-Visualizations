@@ -2,6 +2,7 @@ name: notebookenv
 channels:
   - conda-forge
 dependencies:
+  - os
   - numpy
   - psutil
   - toolz
