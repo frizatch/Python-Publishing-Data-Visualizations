@@ -27,16 +27,16 @@ By the end of this workshop, you'll:
 ## Data Visualization Libraries
 Here is a brief table highlighting a few and why you may want to use them:
 
-| Library | Description | Pros | Cons | Interactivity | Export formats |
-| ------- | ----------- | ---- | ---- | ------------- | -------------- |
-| [Matplotlib](https://matplotlib.org/) | low-level work horse library | versatile | refining graphic is complex | no | PNGs SVGs |
-| [Seaborn](https://seaborn.pydata.org/) | high-level library based on matplotlib | minimal code for high-level graphics | | no |
-| [Bokeh](https://bokeh.org/) |  |  high-performance interactive charts and plots|  | yes | |
-| [Plotly](https://plotly.com/python/) | | high-performance interactive charts and plots, including 3D | confusing platform with many tools | yes | |
-| [Folium](https://python-visualization.github.io/folium/) |  | display data on Leaflet maps| | yes |
-| [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib/wiki/User-Guide) | Library specifically for geospatial visualization | | need to screenshot output, seems no longer maintained | yes |
+| Library | Description | Pros | Cons | Interactivity |
+| ------- | ----------- | ---- | ---- | ------------- |
+| [Matplotlib](https://matplotlib.org/) | low-level work horse library | versatile | refining graphic is complex | no |
+| [Seaborn](https://seaborn.pydata.org/) | high-level library based on matplotlib | minimal code for high-level graphics | not as many chart options as matplotlib | no |
+| [Bokeh](https://bokeh.org/) | interactive version of matplotlib |  high-performance interactive charts and plots| refining graphic more complex than higher-level libraries | yes |
+| [Plotly](https://plotly.com/python/) | high-level graphing library | high-performance interactive charts and plots, including 3D | confusing platform with many tools | yes |
+| [Folium](https://python-visualization.github.io/folium/) | specifically for creating map visualizations | visualize choropleth or markers on Leaflet maps| narrow purpose library | yes |
+| [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib/wiki/User-Guide) | Library specifically for geospatial visualization | navigable map as output | need to screenshot output, seems no longer maintained | yes |
 
-Note: Both Pandas and Geopandas have Dataframe.plot methods that are convenient wrappers around Matplotlib to create simple plots 
+Note: *Both Pandas and Geopandas have Dataframe.plot methods that are convenient wrappers around Matplotlib to create simple plots*
 
 Here are the ones we'll focus on:
 
