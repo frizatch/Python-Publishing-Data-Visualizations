@@ -11,7 +11,14 @@ By the end of this workshop, you'll:
 
 - Be familiar with the python visualization libraries *matplotlib* and *seaborn*
 - Have exposure to the libraries *numpy*, *pandas* and *geopandas* for working with data
-- Know how to use python for creating figures to add to reports and paper submissions
+- Know how to use python for creating figures to add to reports, posters and papers
+
+## Workshop Resources
+
+- [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/)
+- [Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
+- You can find datasets we'll use in this [data folder](https://www.dropbox.com/sh/wk6t92vp4l4cq53/AAAFzaD07V2LyKdhAjO54tefa?dl=0) on Dropbox
+- Other similar Airbnb data can be found on the [Inside Airbnb website](http://insideairbnb.com/get-the-data/)
 
 ## Data Visualization Libraries
 Here is a brief table highlighting a few and why you may want to use them:
