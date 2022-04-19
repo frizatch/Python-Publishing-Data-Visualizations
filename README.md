@@ -29,12 +29,12 @@ Here is a brief table highlighting a few and why you may want to use them:
 
 | Library | Description | Pros | Cons | Interactivity | Export formats |
 | ------- | ----------- | ---- | ---- | ------------- | -------------- |
-| Matplotlib | low-level library | versatile | refining graphic is complex | no | PNGs SVGs |
-| Seaborn | high-level | minimal code for high-level graphics | | no |
-| Plotly | |  |  | yes | |
-| Bokeh |  | |  | yes | |
-| Folium |  | display data on Leaflet maps|
-| Geoplotlib | | | output is temporary interactive window and only option to save .png | yes |
+| [Matplotlib](https://matplotlib.org/) | low-level work horse library | versatile | refining graphic is complex | no | PNGs SVGs |
+| [Seaborn](https://seaborn.pydata.org/) | high-level library based on matplotlib | minimal code for high-level graphics | | no |
+| [Bokeh](https://bokeh.org/) |  |  high-performance interactive charts and plots|  | yes | |
+| [Plotly](https://plotly.com/python/) | | high-performance interactive charts and plots, including 3D | confusing platform with many tools | yes | |
+| [Folium](https://python-visualization.github.io/folium/) |  | display data on Leaflet maps| | yes |
+| [Geoplotlib](https://github.com/andrea-cuttone/geoplotlib/wiki/User-Guide) | Library specifically for geospatial visualization | | need to screenshot output, seems no longer maintained | yes |
 
 Note: Both Pandas and Geopandas have Dataframe.plot methods that are convenient wrappers around Matplotlib to create simple plots 
 
