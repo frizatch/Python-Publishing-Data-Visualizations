@@ -27,14 +27,16 @@ By the end of this workshop, you'll:
 ## Data Visualization Libraries
 Here is a brief table highlighting a few and why you may want to use them:
 
-| Library | Description | Pros | Cons | Interactivity | Strength | Export formats |
-| ------- | ----------- | ---- | ---- | ------------- | -------- | -------------- |
-| Matplotlib | low-level library | versatile | refining graphic is complex | no | can plot anything | PNGs SVGs |
+| Library | Description | Pros | Cons | Interactivity | Export formats |
+| ------- | ----------- | ---- | ---- | ------------- | -------------- |
+| Matplotlib | low-level library | versatile | refining graphic is complex | no | PNGs SVGs |
 | Seaborn | high-level | minimal code for high-level graphics | | no |
 | Plotly | |  |  | yes | |
 | Bokeh |  | |  | yes | |
 | Folium |  | display data on Leaflet maps|
 | Geoplotlib | | | output is temporary interactive window and only option to save .png | yes |
+
+Note: Both Pandas and Geopandas have Dataframe.plot methods that are convenient wrappers around Matplotlib to create simple plots 
 
 Here are the ones we'll focus on:
 
@@ -59,7 +61,6 @@ Matplotlib also supplies these amazing [cheetsheets](https://matplotlib.org/chea
 
 There is detailed information and examples on styling figures on matplotlib's [Introductory Usage Guide](https://matplotlib.org/stable/tutorials/introductory/usage.html), but we'll go over some of these in our notebook.
 
-Note that pandas.DataFrame.plot is a convenient wrapper around Matplotlib to create simple plots.
 
 [Seaborn](https://seaborn.pydata.org/)
 
