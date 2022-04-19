@@ -1,4 +1,4 @@
-# Publishing with Python
+# Publishing with Python      <img src="images/PyLogo.png" width="75"/>  ---->   <img src="images/smokerregression.png" width="75"/>
 An introduction to using data visualization libraries for creating your figures
 
 There are many different libraries one can use for data visualization in python. They all have different strengths and weaknesses. In this workshop, we'll examine creating visuals by relying on two libraries: *maplotlib* and *seaborn*, but be aware there are others that may fit your purposes better.
