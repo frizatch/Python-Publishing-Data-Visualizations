@@ -17,6 +17,9 @@ By the end of this workshop, you'll:
 
 - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/)
 - [Seaborn User Guide](https://seaborn.pydata.org/tutorial.html)
+- [NumPy Documentation](https://numpy.org/doc/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [GeoPandas Documentation](https://geopandas.org/en/stable/docs.html)
 - You can find datasets we'll use in this [data folder](https://www.dropbox.com/sh/wk6t92vp4l4cq53/AAAFzaD07V2LyKdhAjO54tefa?dl=0) on Dropbox
 - Other similar Airbnb data can be found on the [Inside Airbnb website](http://insideairbnb.com/get-the-data/)
 
