@@ -73,7 +73,7 @@ All of these objects can be styled by passing arguments to called methods.
 
 There is detailed information and examples on styling figures on matplotlib's [Introductory Usage Guide](https://matplotlib.org/stable/tutorials/introductory/usage.html), but we'll go over some of these in our notebook. The best way to learn is to play!
 
-## NumPy
+## [NumPy](https://numpy.org/)
 
 "The fundamental package for scientific computing with Python"
 
