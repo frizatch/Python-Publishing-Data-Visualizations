@@ -97,6 +97,6 @@ Basically, it mushes all the capabilities of the methods in matplotlib into high
 
 You can launch the notebook in two different ways:
 - Directly from the top of this README.md under "Workshop Resources" using Binder
-- Go to the main repository page, retrieve the .ipynb file, and launch Jupyter Notebooks from your own python environment.
+- Go to the main repository page, retrieve the .ipynb file, and launch Jupyter Notebooks from your own python environment. Be sure to have the correct libraries and dependencies installed in this environment.
 
 
